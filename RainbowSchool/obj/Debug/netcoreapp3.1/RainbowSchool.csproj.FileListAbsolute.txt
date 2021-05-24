@@ -1,0 +1,13 @@
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.exe
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.deps.json
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.runtimeconfig.json
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.runtimeconfig.dev.json
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.dll
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\bin\Debug\netcoreapp3.1\RainbowSchool.pdb
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.csprojAssemblyReference.cache
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.AssemblyInfoInputs.cache
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.AssemblyInfo.cs
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.dll
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.pdb
+C:\Users\samah\Desktop\مسار مطور (.NET)\Phase 1 - Agile, Git, and Basics of C# Programming\RainbowSchool\RainbowSchool\obj\Debug\netcoreapp3.1\RainbowSchool.genruntimeconfig.cache
